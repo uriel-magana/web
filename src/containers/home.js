@@ -7,8 +7,8 @@ const Home = () => {
     return (
       <div class="center">
         <div className="border">
-          <h1>Hello! I'm Moises Trejo :)</h1>
-          <p>I am from ___</p>
+          <h1>Hello! I'm YOUR NAME :)</h1>
+          <p>I am from A PLACE SOMEWHERE</p>
           <p>I like to ___</p>
           <p>I am looking for a role in ___</p>
           <p>
