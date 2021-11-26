@@ -121,3 +121,11 @@ code {
     box-shadow: 0px 0px 12px 6px #eee;
     margin: 32px
 }
+
+.contact-grid {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

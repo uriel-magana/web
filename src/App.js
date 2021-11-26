@@ -3,6 +3,8 @@ import "./index.css";
 import Home from "./containers/home";
 import Projects from "./containers/projects";
 import Resume from "./containers/resume";
+import Contact from "./containers/contact";
+
 import links from "./information/links.json";
 
 import NavigationBar from "./components/nav_bar";
@@ -22,6 +24,7 @@ function App() {
         <Route path="/home" component={Home}></Route>
         <Route path="/resume" component={Resume}></Route>
         <Route path="/projects" component={Projects}></Route>
+        <Route path="/contact" component={Contact} />
         {links.map((link) =>
           link.ids.map((id) => {
             return (
