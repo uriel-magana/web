@@ -1,8 +1,8 @@
-import './App.css';
+import "./index.css";
 
-import Home from './containers/home'
-import Projects from './containers/projects'
-import Resume from './containers/resume'
+import Home from "./containers/home";
+import Projects from "./containers/projects";
+import Resume from "./containers/resume";
 import links from "./information/links.json";
 
 import NavigationBar from "./components/nav_bar";

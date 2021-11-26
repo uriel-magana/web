@@ -4,7 +4,7 @@ import "../index.css";
 
 const Project = ({ project }) => {
   return (
-    <div class="project" href={project.link}>
+    <div class="project" onClick={() => window.open(project.link)}>
       <div>
         <h1>{project.name}</h1>
         <p>{project.description}</p>

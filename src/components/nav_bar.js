@@ -9,13 +9,13 @@ class NavigationBar extends React.Component {
     return (
       <div>
         <ul className="nav-ul">
-          <li>
+          <li className="nav-li">
             <NavLink to="/home">Home</NavLink>
           </li>
-          <li>
+          <li className="nav-li">
             <NavLink to="/resume">Resume</NavLink>
           </li>
-          <li>
+          <li className="nav-li">
             <NavLink to="/projects">Projects</NavLink>
           </li>
         </ul>

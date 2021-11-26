@@ -1,7 +1,7 @@
 [
     {
         "name": "Project 1",
-        "link": "www.google.com",
+        "link": "https://www.google.com/",
         "description": "Final project for 19.005",
         "img": "headshot.jpg",
         "tags": [
@@ -10,8 +10,8 @@
         ]
     },
     {
-        "name": "Project 1",
-        "link": "www.google.com",
+        "name": "Project 2",
+        "link": "https://www.google.com/",
         "description": "Final project for 19.005",
         "img": "paleta.jpg",
         "tags": [
@@ -20,8 +20,8 @@
         ]
     },
     {
-        "name": "Project 1",
-        "link": "www.google.com",
+        "name": "Project 3",
+        "link": "https://www.google.com/",
         "description": "Final project for 19.005",
         "img": "headshot.jpg",
         "tags": [
@@ -30,8 +30,8 @@
         ]
     },
     {
-        "name": "Project 1",
-        "link": "www.google.com",
+        "name": "Project 4",
+        "link": "https://www.google.com/",
         "description": "Final project for 19.005",
         "img": "paleta.jpg",
         "tags": [
