@@ -1,15 +1,26 @@
 import React from 'react'
 
-import './project.css'
+import "../index.css";
 
-const Project = ({name, link, photo}) => {
-
-    return <div class = 'project'>
-        <h1>{name}</h1>
-        <a href={link}>See more</a>
+const Project = ({ project }) => {
+  return (
+    <div class="project" href={project.link}>
+      <div>
+        <h1>{project.name}</h1>
+        <p>{project.description}</p>
+        <p>tags: {project.tags.join(", ")}</p>
+        <a href={project.link} target="_blank" rel="noreferrer">
+          See more
+        </a>
         <br></br>
-        <img class = 'image' src={process.env.PUBLIC_URL+`/images/${photo}`}></img>
+      </div>
+      <img
+        class="project-image"
+        src={process.env.PUBLIC_URL + `/images/${project.img}`}
+        alt={project.name}
+      ></img>
     </div>
-} 
+  );
+}; 
 
 export default Project;

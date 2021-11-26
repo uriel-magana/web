@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Project 1",
+        "link": "www.google.com",
+        "description": "Final project for 19.005",
+        "img": "headshot.jpg",
+        "tags": [
+            "CAD",
+            "2.009"
+        ]
+    },
+    {
+        "name": "Project 1",
+        "link": "www.google.com",
+        "description": "Final project for 19.005",
+        "img": "paleta.jpg",
+        "tags": [
+            "CAD",
+            "2.009"
+        ]
+    },
+    {
+        "name": "Project 1",
+        "link": "www.google.com",
+        "description": "Final project for 19.005",
+        "img": "headshot.jpg",
+        "tags": [
+            "Genetics",
+            "5.009"
+        ]
+    },
+    {
+        "name": "Project 1",
+        "link": "www.google.com",
+        "description": "Final project for 19.005",
+        "img": "paleta.jpg",
+        "tags": [
+            "C++",
+            "6.009"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "ids": [
+            "egg"
+        ],
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+        "ids": [
+            "fb",
+            "facebook"
+        ],
+        "link": "https://www.facebook.com/moises.trejo.773"
+    },
+    {
+        "ids": [
+            "ig",
+            "instagram"
+        ],
+        "link": "https://www.instagram.com/moises.trejo0/"
+    }
+]
