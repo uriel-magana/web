@@ -1,6 +1,6 @@
 [
     {
-        "name": "Project 1",
+        "name": "Project 100",
         "link": "https://www.google.com/",
         "description": "Final project for 19.005",
         "img": "headshot.jpg",
@@ -10,10 +10,10 @@
         ]
     },
     {
-        "name": "Project 2",
-        "link": "https://www.google.com/",
+        "name": "Project 200",
+        "link": "https://www.reddit.com/",
         "description": "Final project for 19.005",
-        "img": "paleta.jpg",
+        "img": "potato.jpeg",
         "tags": [
             "CAD",
             "2.009"

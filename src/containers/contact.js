@@ -33,7 +33,7 @@ class Contact extends React.Component {
               return (
                 <li>
                   <a href={link.link} target="_blank" rel="noopener noreferrer">
-                    https://mtrejo0.github.io/web/#/{id}
+                    /{id}
                   </a>
                 </li>
               );
